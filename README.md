@@ -98,6 +98,4 @@ Blekinge Institute of Technology, Sweden
 
 ## Course
 
-DV2618 – Introduction to Artificial Intelligence
-
-**Assignment 3 – Barcode CODEC**
+Artificial Intelligence
